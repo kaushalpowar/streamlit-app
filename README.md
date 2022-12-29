@@ -1,8 +1,11 @@
 # streamlit-app
-This streamlit app classifies the species of Penguin.
+This streamlit app classifies the species of Penguin.<br/>
+[Link to web app](http://192.168.114.43:8501)
+
+<br/>
 
 
-![penguin-penguins](https://user-images.githubusercontent.com/90775147/209944922-db51a241-ba6d-483d-8675-6df4ae22abe0.gif)
+![penguin-penguins](https://user-images.githubusercontent.com/90775147/209944922-db51a241-ba6d-483d-8675-6df4ae22abe0.gif)<br/>
 GIF credit - [Tensor](https://tenor.com/view/penguin-penguins-penguin-love-penguin-hug-slapping-gif-24271495) 
 
 
