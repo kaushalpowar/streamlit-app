@@ -1,7 +1,6 @@
 # streamlit-app
 This streamlit app classifies the species of Penguin.<br/>
-[Link to web app](http://192.168.114.43:8501)
-
+The app is not deployed yet, soon you will find the link here.
 <br/>
 
 
